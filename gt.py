@@ -97,7 +97,7 @@ def run_bot(data_account, recover=1):
         konten = f'''
         17 minutes ago - Access {kw} Onlyfans Leaked content & files Update.
 
-        LINK ⏩⏩ https://clipsmu.com/{modif_kata}
+        LINK =>> https://clipsmu.com/{modif_kata}
 
         2025 Updated! Today, you'll be able to download and preview all content from {kw} in just a few clicks.
         '''
